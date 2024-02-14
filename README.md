@@ -1,4 +1,4 @@
-# IMDB Top 250 Scraping
+# IMDb Top 250 Scraping
 
 ![Project Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IMDb_Logo_Square.svg/192px-IMDb_Logo_Square.svg.png?20200218171646)
 
